@@ -1,4 +1,6 @@
 
+[![Build Status](https://bbojilov.visualstudio.com/SpaceGame-DevOps/_apis/build/status/bbojilov.mslearn-tailspin-spacegame-web?branchName=master)](https://bbojilov.visualstudio.com/SpaceGame-DevOps/_build/latest?definitionId=11&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
